@@ -67,7 +67,3 @@ The first row displays battery voltage, navigation mode, state, and an alive ind
 | 3 | Turn acquisition timeout |
 | 4 | Tape lost beyond the permitted interval |
 | 5 | ADC conversion timeout |
-
-## Course deliverables
-
-The lab instructions call for a documented assembly source file, a written project summary, and a robot demonstration. A separate automated test suite is not a required deliverable. The physical demonstration and report should describe the capabilities actually achieved by the firmware running on the robot.
